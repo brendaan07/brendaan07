@@ -4,7 +4,7 @@ I'm a Computer Science student @ the National University of Singapore. I'm also:
 - interested in cybersecurity and software development
 - a massive Manchester United fan. 
 
-## 📫 Reach me
+## Reach me
 - LinkedIn: linkedin.com/in/brendan-chong07
 - Email: brendaaaan07@gmail.com
 
