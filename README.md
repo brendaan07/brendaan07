@@ -1,7 +1,8 @@
 ## Hey guys, I'm Brendan
 
-I'm a Computer Science student @ the National University of Singapore and a massive Manchester United fan. 
-- I'm interested in cybersecurity and software development
+I'm a Computer Science student @ the National University of Singapore. I'm also:
+- interested in cybersecurity and software development
+- a massive Manchester United fan. 
 
 ## 📫 Reach me
 - LinkedIn: linkedin.com/in/brendan-chong07
