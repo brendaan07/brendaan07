@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hey guys, I'm Brendan
+
+I'm a Computer Science student @ the National University of Singapore and a massive Manchester United fan. 
+- I'm interested in cybersecurity and software development
+
+## 📫 Reach me
+- LinkedIn: linkedin.com/in/brendan-chong07
+- Email: brendaaaan07@gmail.com
 
 <!--
 **brendaan07/brendaan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
